@@ -29,5 +29,5 @@ else
     end
   end
   pigeon_list
-binding.pry
+
 end
